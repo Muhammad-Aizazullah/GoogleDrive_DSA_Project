@@ -1,4 +1,3 @@
-# GoogleDrive_DSA_Project
 # Google Drive File System (C++ Project)
 
 This is a console-based file system simulation developed using C++ for the Data Structures and Algorithms (DSA) course at FAST National University. It mimics the core functionality of Google Drive using various data structures.
